@@ -29,6 +29,3 @@ def fizzbuzz():
         else: 
             print (i)
             i += 1
-
-
-fizzbuzz()
